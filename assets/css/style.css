@@ -2,3 +2,7 @@ body {
     background-color:rgb(182, 177, 177);
     background-image: url(../images/background-img.jpg);
 }
+h2 {
+    color: orangered;
+    font-size: 24px;
+}
