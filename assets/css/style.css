@@ -1,8 +1,11 @@
-body { 
-    background-color:rgb(182, 177, 177);
-    background-image: url(../images/background-img.jpg);
+body {
+  background-color: rgb(182, 177, 177);
+  background-image: url(../images/background-img.jpg);
 }
 h2 {
-    color: orangered;
-    font-size: 24px;
+  color: orangered;
+  font-size: 24px;
+}
+p {
+  font-weight: bold;
 }
